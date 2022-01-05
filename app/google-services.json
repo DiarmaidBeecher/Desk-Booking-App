@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "627255255163",
+    "project_id": "assign5-diarmaidbeecher",
+    "storage_bucket": "assign5-diarmaidbeecher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627255255163:android:12abf23683b6973d5982de",
+        "android_client_info": {
+          "package_name": "com.example.beecherd_assign5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627255255163-7im5c3nrco792eosl247qjonospui5qf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beecherd_assign5",
+            "certificate_hash": "ced1559bd8fae7c028f88126d7c1a89e866f9a4e"
+          }
+        },
+        {
+          "client_id": "627255255163-rcigulmbar2f4r5pitjvq0k646crvhbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAng1AjTW_z0deMuilEtJ63rjzqZi4ziYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627255255163-rcigulmbar2f4r5pitjvq0k646crvhbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

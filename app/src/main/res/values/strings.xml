@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">beecherd_assign5</string>
+
+    <!--activity_login-->
+    <string name="login_heading">Hot Seat</string>
+    <string name="login_body">Book a desk</string>
+    <string name="signout_button">Sign Out</string>
+
+    <!--fragment_booking-->
+    <string name="from_text">From</string>
+    <string name="to_text">To</string>
+    <string name="pick_date">Pick date</string>
+    <string name="calendar_icon">calendar icon</string>
+    <string name="my_seats">My Seats</string>
+    <string name="available_seats">Available Seats</string>
+
+    <!--current_booking_item-->
+    <string name="desk_num_text">Desk</string>
+    <string name="desk_num">desk num</string>
+    <string name="from_date">from date</string>
+    <string name="to_date">to date</string>
+    <string name="seat_logo">seat logo</string>
+    <string name="border">border</string>
+
+    <!--booking_item-->
+    <string name="book">Book</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
